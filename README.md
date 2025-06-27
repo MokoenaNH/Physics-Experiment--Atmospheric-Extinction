@@ -1,7 +1,9 @@
 Atmospheric Extinction and Airmass Experiment (NPHY322)
+
 This repository contains the code, data, and report for Experiment 9: Atmospheric Extinction and Airmass (ATM-EXT) conducted as part of the NPHY322 Physics Practical module.
 
 📌 Objective
+
 The aim of the experiment was to:
 
 Measure atmospheric extinction,
