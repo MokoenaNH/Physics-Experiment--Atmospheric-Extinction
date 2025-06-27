@@ -21,6 +21,7 @@ Airmass vs. Total Flux
 Airmass vs. Instrumental Magnitude
 
 📊 Visualizations
+
 Two main plots were generated:
 
 Airmass vs. Total Flux – Showing how starlight intensity decreases with atmospheric depth.
@@ -28,6 +29,7 @@ Airmass vs. Total Flux – Showing how starlight intensity decreases with atmosp
 Airmass vs. Instrumental Magnitude – Demonstrating the logarithmic relationship between magnitude and extinction.
 
 📁 Contents
+
 BLUE FILTER.csv, INDIGO FILTER.csv, etc. — Raw observation data
 
 airmass_vs_flux.py — Script for plotting Airmass vs Total Flux
@@ -44,6 +46,7 @@ Matplotlib
 NumPy
 
 📌 Key Findings
+
 Extinction increases with airmass.
 
 Observations are more accurate when celestial objects are near zenith.
@@ -51,6 +54,7 @@ Observations are more accurate when celestial objects are near zenith.
 The extinction coefficient varies depending on the wavelength (filter used).
 
 👨‍🔬 Authors
+
 N. Mokoena – 37320629
 
 O. Maletswa – 36824798
@@ -64,6 +68,7 @@ P.N. Raluthaka – 37949128
 T. Mnisi – 37171755
 
 📎 References
+
 Physics 3rd Year Experiment Manual (2019)
 
 Sitko & Stolker (2023), Research Notes of the AAS
