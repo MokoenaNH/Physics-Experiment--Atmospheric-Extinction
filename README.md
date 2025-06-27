@@ -6,15 +6,15 @@ This repository contains the code, data, and report for Experiment 9: Atmospheri
 
 The aim of the experiment was to:
 
-Measure atmospheric extinction,
-
-Determine how starlight is absorbed/scattered by the Earth’s atmosphere,
-
-Calculate airmass and extinction coefficients using multiple wavelength filters (Blue, Indigo, Violet, Ultraviolet, and Red).
+    Measure atmospheric extinction,
+    
+    Determine how starlight is absorbed/scattered by the Earth’s atmosphere,
+    
+    Calculate airmass and extinction coefficients using multiple wavelength filters (Blue, Indigo, Violet, Ultraviolet, and Red).
 
 **🧪 Experiment Summary**
 
-We observed the star **BD-124523** using a telescope equipped with a photometer and various filters. The instrumental magnitude and total flux were recorded over varying airmass values. These observations were then used to analyze:
+    We observed the star **BD-124523** using a telescope equipped with a photometer and various filters. The instrumental magnitude and total flux were recorded over varying airmass values. These observations were then used to analyze:
 
 Airmass vs. Total Flux
 
